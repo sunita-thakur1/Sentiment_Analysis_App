@@ -56,6 +56,8 @@ Link: https://medium.com/@rslavanyageetha/vader-a-comprehensive-guide-to-sentime
 #         st.warning("Please enter a review to analyze.")
 
 #!streamlit run app.py & npx localtunnel --port 8501
+#if name == “main”:
+#main()
 
 """Steps to run the app:
 1. Click: your url is: https://evil-showers-remain.loca.lt
