@@ -41,7 +41,7 @@ Link: https://medium.com/@rslavanyageetha/vader-a-comprehensive-guide-to-sentime
 #         return "Neutral"
 # 
 # # Streamlit app
-# import streamlit as st    #import again otherwise throws error
+# #import streamlit as st    #import again otherwise throws error
 # st.title("Restaurant or Other Reviews Sentiment Analysis")
 # 
 # # Input: restaurant review from the user
@@ -55,7 +55,7 @@ Link: https://medium.com/@rslavanyageetha/vader-a-comprehensive-guide-to-sentime
 #     else:
 #         st.warning("Please enter a review to analyze.")
 
-!streamlit run app.py & npx localtunnel --port 8501
+#!streamlit run app.py & npx localtunnel --port 8501
 
 """Steps to run the app:
 1. Click: your url is: https://evil-showers-remain.loca.lt
