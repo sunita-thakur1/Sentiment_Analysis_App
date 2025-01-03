@@ -42,7 +42,7 @@ Link: https://medium.com/@rslavanyageetha/vader-a-comprehensive-guide-to-sentime
 # 
 # # Streamlit app
 # import streamlit as st    #import again otherwise throws error
-# st.title("Restaurant or other Reviews Sentiment Analysis")
+# st.title("Restaurant or Other Reviews Sentiment Analysis")
 # 
 # # Input: restaurant review from the user
 # review = st.text_area("Enter the restaurant or other review here:")
