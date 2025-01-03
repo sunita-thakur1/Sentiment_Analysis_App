@@ -12,7 +12,7 @@ import streamlit as st
 #import nltk
 #nltk.download('vader_lexicon')
 #!pip install sentiment
-from nltk.sentiment.vader import SentimentIntensityAnalyzer
+#from nltk.sentiment.vader import SentimentIntensityAnalyzer
 #from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 """The **SentimentIntensityAnalyzer** class provides a method called polarity_scores() that takes a piece of text as input and returns a dictionary containing the sentiment scores for the text. The dictionary contains four keys: neg, neu, pos, and compound.                                               
