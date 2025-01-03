@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/14J1-5m5kSPKHRTC-_3bQ1CwOgt4F_C7m
 """
 
-!pip install streamlit
+#!pip install streamlit
 import streamlit as st
 import nltk
 nltk.download('vader_lexicon')
