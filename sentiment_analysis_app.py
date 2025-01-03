@@ -11,7 +11,7 @@ Original file is located at
 import streamlit as st
 import nltk
 nltk.download('vader_lexicon')
-!pip install sentiment
+#!pip install sentiment
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 #from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
