@@ -21,7 +21,7 @@ review = st.text_area("Enter the restaurant or other review here:")
 
 # If the user submits a review
 if st.button("Analyze Sentiment"):
-    if review:
+   # if review:
         #sentiment = analyze_sentiment_vader(review)
       #  st.write(f"The sentiment of the review is: **{sentiment}**")
     else:
