@@ -1,6 +1,6 @@
 # Initialize VADER SentimentIntensityAnalyzer
 #from nltk.sentiment.vader import SentimentIntensityAnalyzer      #import again otherwise throws error
-sia = SentimentIntensityAnalyzer()
+#sia = SentimentIntensityAnalyzer()
 
 # Function to perform sentiment analysis using VADER
 def analyze_sentiment_vader(review):
